@@ -8,21 +8,9 @@ excerpt: ''
 tags: ["writings"]
 ---
 
-My heart is light.
-
->Missing.
-
-What is it?
-
-Wandering minds, imagination wild, **lost**.
-
-AM I here?
-
-<!-- <img style="margin: auto;" src="../images/here.jpg" /> -->
-
 ![here](../images/here.jpg)
 
-<center>But a light in a dark night, will it last or fade?</center>
+<center>light in a dark night, will it last or fade?</center>
 <br/>
 <br/>
 
