@@ -1,5 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+var d = new Date();
+var n = d.getFullYear();
 
 const Footer = ({ copyrights }) => (
   <footer>
@@ -12,10 +14,11 @@ const Footer = ({ copyrights }) => (
     ) : (
       <>
         <span className="footerCopyrights">
-          © 2019 Built with <a href="https://www.gatsbyjs.org">Gatsby</a>
+          © {n} Built with <a target="_blank" nofollow href="https://www.gatsbyjs.org">Gatsby</a>
         </span>
         <span className="footerCopyrights">
-          Starter created by <a href="https://radoslawkoziel.pl">panr</a>
+          A story by Lue
+          <a target="_blank" href="https://bermont.digital"></a>
         </span>
       </>
     )}
