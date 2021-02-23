@@ -5,6 +5,7 @@ import { graphql } from 'gatsby'
 import SEO from '../components/seo'
 import Layout from '../components/layout'
 import Post from '../components/post'
+import Disqus from 'gatsby-plugin-disqus'
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const {
@@ -29,6 +30,11 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         tags={tags}
         previousPost={previous}
         nextPost={next}
+      />
+      <Disqus 
+      identifier={id}
+      title={title}
+      url={`${"https://itslue.co.za"}${path}`}
       />
     </Layout>
   )

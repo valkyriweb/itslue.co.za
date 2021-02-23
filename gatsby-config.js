@@ -34,6 +34,7 @@ module.exports = {
         path: '/contact',
       },
     ],
+    siteUrl: `https://itslue.co.za`,
   },
   plugins: [
     `babel-preset-gatsby`,
@@ -122,6 +123,15 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/hello-icon.png`,
       },
+    },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+    },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `itslue`
+      }
     },
   ],
 }

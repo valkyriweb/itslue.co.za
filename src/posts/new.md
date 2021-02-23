@@ -5,7 +5,7 @@ date: "2020-12-09"
 coverImage: 
 author: "Luke"
 excerpt: 'The inner thoughts'
-tags: ["new"]
+tags: ["new","test"]
 ---
 
 ## Trying to Reflect on my inner thoughts.
@@ -20,4 +20,4 @@ Learning the formatting for Markdown, a basic mark up language.
 
 - [x] Launch the blog
 - [ ] Update the website with some more **Lue** styling
-- [ ] Write on a regular schedule
+- [ ] Write on a regular schedule (Failing currently)
