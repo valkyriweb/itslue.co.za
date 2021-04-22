@@ -1,5 +1,6 @@
 ---
 title: "Our World"
+description: "My world looks different in my eyes and in my mind but we walk the same earth. Different realities."
 path: "/our-world"
 date: "2021-03-13"
 coverImage: "../images/our-world/overthinking.jpg"

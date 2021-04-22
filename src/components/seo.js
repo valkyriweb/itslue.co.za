@@ -81,13 +81,12 @@ SEO.defaultProps = {
   lang: `en`,
   meta: [],
   keywords: [
-    'gatsby',
-    'minimal',
-    'starter',
+    'itslue.co.za',
+    'diary',
     'blog',
-    'theme',
-    'dark',
-    'light',
+    'Explore my mind',
+    'It\'s Lue',
+    'Luke',
     'personal site',
   ],
 }
