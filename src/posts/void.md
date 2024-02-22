@@ -14,7 +14,9 @@ Hollow, empty, void. I am.
 
 Echoes fill the cavity inside.
 
-Craving a feeling, meaningless thoughts fill my mind, I can't focus anymore.
+Craving a feeling, meaningless thoughts fill my mind, 
+
+I can't focus anymore.
 Worried about it all, can I change my circumstances?
 
 Of course I can, do I want to though?
@@ -23,7 +25,7 @@ I miss the warmth at my side, hold me close, fill my cavities with your love.
 
 Don't empty yourself for me, it's selfish cravings, I will fill the cavity myself.
 
-Make myself whole for you.
+I will make myself whole for you.
 
 Is the carcass still warm, will it light again? If I fill it up, will it leak?
 
@@ -31,7 +33,7 @@ Am I still in the cocoon or have I escaped, not aware of the change that has tak
 
 Love I will still.
 
-The butterfly, flies still and swift through the rain, I won't stop dancing.
+The butterfly, flies still, swiftly through the rain, I won't stop dancing.
 
 I'm all over the place, but soon I will arrive where I need to be.
 

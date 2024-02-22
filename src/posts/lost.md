@@ -26,7 +26,7 @@ Up and down we go, fighting the balance in our minds, self aware and oblivious.
 
 Have I become overly aware and overly concerned, how I long to be blissfully naive.
 
-Yet with the awareness comes compassion and empathy. I love with all I have, and it came seem over bearing at times, yet I hope to never let the flame die.
+Yet with the awareness comes compassion and empathy. I love with all I have, and it can be overbearing at times, yet I hope to never let the flame die.
 
 Have all of me. The world deserves it, not all, yet all I can touch.
 

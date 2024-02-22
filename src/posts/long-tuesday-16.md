@@ -34,9 +34,7 @@ Of course, it is, it is my purpose. It is my challenge to overcome, but why does
 
 I will keep pushing, I will keep learning because I will be all the better for it.
 
-Besides the challenges of my business, I have found comfort in someone else. 
-
-She has been a new light in the dark, I have enjoyed the conversations and getting to learn more about her, as well as sharing my struggles.
+Besides the challenges of my business, I have found comfort in someone else.
 
 Find happiness in the small things? Appreciate the effort in the small details, keep working on myself. And encourage the others that stick with me through it all. I will grow. I will succeed and we will prosper.
 
