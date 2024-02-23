@@ -1,9 +1,19 @@
 {
   "presets": [
-    "babel-preset-gatsby",
+    [
+      "@babel/preset-env",
+      {
+        "useBuiltIns": "entry",
+        "corejs": 3
+      }
+    ],
+    "babel-preset-gatsby"
   ],
   "plugins": [
     "@babel/plugin-proposal-optional-chaining",
-    "@babel/plugin-proposal-nullish-coalescing-operator"
+    "@babel/plugin-proposal-nullish-coalescing-operator",
+    ["@babel/plugin-transform-private-methods", { "loose": true }],
+    ["@babel/plugin-transform-private-property-in-object", { "loose": true }],
+    ["@babel/plugin-transform-class-properties", { "loose": true }]
   ]
 }
